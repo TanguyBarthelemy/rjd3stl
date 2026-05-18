@@ -16,6 +16,7 @@ To get the current stable version (from the latest release):
 - From GitHub:
 
 ``` r
+
 # install.packages("remotes")
 remotes::install_github("rjdverse/rjd3stl@*release")
 ```
@@ -23,6 +24,7 @@ remotes::install_github("rjdverse/rjd3stl@*release")
 - From [r-universe](https://rjdverse.r-universe.dev/rjd3stl):
 
 ``` r
+
 install.packages("rjd3stl", repos = c("https://rjdverse.r-universe.dev", "https://cloud.r-project.org"))
 ```
 
@@ -32,6 +34,7 @@ You can install the development version of **{rjd3stl}** from
 [GitHub](https://github.com/) with:
 
 ``` r
+
 # install.packages("remotes")
 remotes::install_github("rjdverse/rjd3stl")
 ```
